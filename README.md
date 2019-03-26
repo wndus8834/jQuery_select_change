@@ -5,3 +5,5 @@
 사용자가 첫번째 선택 필드에서 국가를 선택하면 change 이벤트에 대한 jQuery가 호출되어 두번째 선택 필드에 관련 도시가 동시에 나열됩니다.
 
 ![ezgif-2-a87771b468cc](https://user-images.githubusercontent.com/38427658/55010850-51097900-5028-11e9-9db4-8a344950c43c.gif)
+
+[참고](https://www.formget.com/jquery-select-change/)
